@@ -6,7 +6,7 @@ A mod that adds solar panels to Thermal Expansion!
 !!!!IMPORTANT!!!!
 
 There are two versions of the mod. One for basic users and one for power users who want to edit everything!
-What does this mean you ask? The "Editable" version has no recipes and the user can edit everything about the solar panels in the configs!
+What does this mean you ask? The "Editable" version has no recipes and the user can edit everything about the solar panels in the configs! So it is basically for map creators and modpack creators. Yes I am looking at you Jordsta95!
 
 Contributing
 ===============
