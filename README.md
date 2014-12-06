@@ -31,6 +31,9 @@ Special Thanks
 ===============
 
 To Jordsta95 he got me back into coding this mod!
+
 The Forge and FML teams for making an awesome modding API.
+
 COFH team for Thermal Expansion.
+
 Everyone who supported me!
