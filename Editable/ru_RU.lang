@@ -1,0 +1,68 @@
+﻿### Solar Expansion English Localization File ###
+
+itemGroup.solarexpansion=Solar Expansion
+
+tile.solarexpansion:solarPanelT1.name=Солнечная Панель [Уровень 1]
+tile.solarexpansion:solarPanelT2.name=Солнечная Панель [Уровень 2]
+tile.solarexpansion:solarPanelT3.name=Солнечная Панель [Уровень 3]
+tile.solarexpansion:solarPanelT4.name=Солнечная Панель [Уровень 4]
+tile.solarexpansion:solarPanelT5.name=Солнечная Панель [Уровень 5]
+tile.solarexpansion:solarPanelT6.name=Солнечная Панель [Уровень 6]
+tile.solarexpansion:solarPanelT7.name=Солнечная Панель [Уровень 7]
+tile.solarexpansion:solarPanelT8.name=Солнечная Панель [Уровень 8]
+tile.solarexpansion:solarPanelT9.name=Солнечная Панель [Уровень 9]
+tile.solarexpansion:solarPanelT10.name=Солнечная Панель [Уровень 10]
+tile.solarexpansion:solarPanelT11.name=Солнечная Панель [Уровень 11]
+tile.solarexpansion:solarPanelT12.name=Солнечная Панель [Уровень 12]
+tile.solarexpansion:solarPanelT13.name=Солнечная Панель [Уровень 13]
+tile.solarexpansion:solarPanelT14.name=Солнечная Панель [Уровень 14]
+tile.solarexpansion:solarPanelT15.name=Солнечная Панель [Уровень 15]
+tile.solarexpansion:solarPanelT16.name=Солнечная Панель [Уровень 16]
+
+item.solarexpansion:solarCoreT1.name=Солнечное Ядро [Уровень 1]
+item.solarexpansion:solarCoreT2.name=Солнечное Ядро [Уровень 2]
+item.solarexpansion:solarCoreT3.name=Солнечное Ядро [Уровень 3]
+item.solarexpansion:solarCoreT4.name=Солнечное Ядро [Уровень 4]
+item.solarexpansion:solarCoreT5.name=Солнечное Ядро [Уровень 5]
+item.solarexpansion:solarCoreT6.name=Солнечное Ядро [Уровень 6]
+item.solarexpansion:solarCoreT7.name=Солнечное Ядро [Уровень 7]
+item.solarexpansion:solarCoreT8.name=Солнечное Ядро [Уровень 8]
+item.solarexpansion:solarCoreT9.name=Солнечное Ядро [Уровень 9]
+item.solarexpansion:solarCoreT10.name=Солнечное Ядро [Уровень 10]
+item.solarexpansion:solarCoreT11.name=Солнечное Ядро [Уровень 11]
+item.solarexpansion:solarCoreT12.name=Солнечное Ядро [Уровень 12]
+item.solarexpansion:solarCoreT13.name=Солнечное Ядро [Уровень 13]
+item.solarexpansion:solarCoreT14.name=Солнечное Ядро [Уровень 14]
+item.solarexpansion:solarCoreT15.name=Солнечное Ядро [Уровень 15]
+item.solarexpansion:solarCoreT16.name=Солнечное Ядро [Уровень 16]
+
+item.solarexpansion:photovoltaicCellT1.name=Фотоэлектрическая Ячейка [Уровень 1]
+item.solarexpansion:photovoltaicCellT2.name=Фотоэлектрическая Ячейка [Уровень 2]
+item.solarexpansion:photovoltaicCellT3.name=Фотоэлектрическая Ячейка [Уровень 3]
+item.solarexpansion:photovoltaicCellT4.name=Фотоэлектрическая Ячейка [Уровень 4]
+item.solarexpansion:photovoltaicCellT5.name=Фотоэлектрическая Ячейка [Уровень 5]
+item.solarexpansion:photovoltaicCellT6.name=Фотоэлектрическая Ячейка [Уровень 6]
+item.solarexpansion:photovoltaicCellT7.name=Фотоэлектрическая Ячейка [Уровень 7]
+item.solarexpansion:photovoltaicCellT8.name=Фотоэлектрическая Ячейка [Уровень 8]
+item.solarexpansion:photovoltaicCellT9.name=Фотоэлектрическая Ячейка [Уровень 9]
+item.solarexpansion:photovoltaicCellT10.name=Фотоэлектрическая Ячейка [Уровень 10]
+item.solarexpansion:photovoltaicCellT11.name=Фотоэлектрическая Ячейка [Уровень 11]
+item.solarexpansion:photovoltaicCellT12.name=Фотоэлектрическая Ячейка [Уровень 12]
+item.solarexpansion:photovoltaicCellT13.name=Фотоэлектрическая Ячейка [Уровень 13]
+item.solarexpansion:photovoltaicCellT14.name=Фотоэлектрическая Ячейка [Уровень 14]
+item.solarexpansion:photovoltaicCellT15.name=Фотоэлектрическая Ячейка [Уровень 15]
+item.solarexpansion:photovoltaicCellT16.name=Фотоэлектрическая Ячейка [Уровень 16]
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=Генерация
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=Передача
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=Вместимость
+
+info.shad0wb1ade.solarexpansion.items.components=Это просто компонент для крафта.
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=Удерживайте
+info.shad0wb1ade.solarexpansion.shiftkey=Shift
+info.shad0wb1ade.solarexpansion.shiftkey.down=для Деталей
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=Удерживайте
+info.shad0wb1ade.solarexpansion.controlkey=Control
+info.shad0wb1ade.solarexpansion.controlkey.down=для Деталей

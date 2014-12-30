@@ -1,0 +1,33 @@
+﻿### Solar Expansion English Localization File ###
+### Insert your name here and remove my: Shad0wB1ade ###
+
+itemGroup.solarexpansion=Solar Expansion
+
+tile.solarexpansion:solarPanelLeadstone.name=Свинцовая Солнечная Панель
+tile.solarexpansion:solarPanelHardened.name=Усиленная Солнечная Панель
+tile.solarexpansion:solarPanelRedstone.name=Красная Солнечная Панель
+tile.solarexpansion:solarPanelResonant.name=Резонирующая Солнечная Панель
+tile.solarexpansion:solarPanelAdvanced.name=Улучшенная Солнечная Панель
+tile.solarexpansion:solarPanelUltimate.name=Ультимейт Солнечная Панель
+
+item.solarexpansion:photovoltaicCell.name=Фотоэлектрическая Ячейка
+item.solarexpansion:solarCoreLeadstone.name=Свинцовое Солнечное Ядро
+item.solarexpansion:solarCoreHardened.name=Усиленное Солнечное Ядро
+item.solarexpansion:solarCoreRedstone.name=Красное Солнечное Ядро
+item.solarexpansion:solarCoreResonant.name=Резонирующое Солнечное Ядро
+item.solarexpansion:solarCoreAdvanced.name=Улучшенное Солнечное Ядро
+item.solarexpansion:solarCoreUltimate.name=Ультимейт Солнечное Ядро
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=Генерация
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=Передача
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=Вместимость
+
+info.shad0wb1ade.solarexpansion.items.components=Это просто компонент для крафта.
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=Удерживайте
+info.shad0wb1ade.solarexpansion.shiftkey=Shift
+info.shad0wb1ade.solarexpansion.shiftkey.down=для Деталей
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=Удерживайте
+info.shad0wb1ade.solarexpansion.controlkey=Control
+info.shad0wb1ade.solarexpansion.controlkey.down=для Деталей
