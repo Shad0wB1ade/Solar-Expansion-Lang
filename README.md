@@ -16,6 +16,7 @@ Contributing
 3. Make sure to use the latest version of my mod and forge before reporting any issue.
 4. Add a crashlog if the game crashed or a log if it didn't.
 5. Please use pastebin.com for crashlogs and logs.
+6. Please be sure to include proper information about what were you doing? What was supposed to happen? What went wrong?
 
 Modpacks
 ===============
