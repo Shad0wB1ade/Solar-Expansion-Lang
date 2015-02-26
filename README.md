@@ -17,6 +17,7 @@ Contributing
 4. Add a crashlog if the game crashed or a log if it didn't.
 5. Please use pastebin.com for crashlogs and logs.
 6. Please be sure to include proper information about what were you doing? What was supposed to happen? What went wrong?
+7. Made sure to include what version of SE you use and what version of MC Forge you use.
 
 Modpacks
 ===============
