@@ -1,0 +1,68 @@
+### Solar Expansion Korean Localization File ###
+
+itemGroup.solarexpansion=Solar Expansion
+
+tile.solarexpansion:solarPanelT1.name=Solar Panel [Tier 1]
+tile.solarexpansion:solarPanelT2.name=Solar Panel [Tier 2]
+tile.solarexpansion:solarPanelT3.name=Solar Panel [Tier 3]
+tile.solarexpansion:solarPanelT4.name=Solar Panel [Tier 4]
+tile.solarexpansion:solarPanelT5.name=Solar Panel [Tier 5]
+tile.solarexpansion:solarPanelT6.name=Solar Panel [Tier 6]
+tile.solarexpansion:solarPanelT7.name=Solar Panel [Tier 7]
+tile.solarexpansion:solarPanelT8.name=Solar Panel [Tier 8]
+tile.solarexpansion:solarPanelT9.name=Solar Panel [Tier 9]
+tile.solarexpansion:solarPanelT10.name=Solar Panel [Tier 10]
+tile.solarexpansion:solarPanelT11.name=Solar Panel [Tier 11]
+tile.solarexpansion:solarPanelT12.name=Solar Panel [Tier 12]
+tile.solarexpansion:solarPanelT13.name=Solar Panel [Tier 13]
+tile.solarexpansion:solarPanelT14.name=Solar Panel [Tier 14]
+tile.solarexpansion:solarPanelT15.name=Solar Panel [Tier 15]
+tile.solarexpansion:solarPanelT16.name=Solar Panel [Tier 16]
+
+item.solarexpansion:solarCoreT1.name=Solar Core [Tier 1]
+item.solarexpansion:solarCoreT2.name=Solar Core [Tier 2]
+item.solarexpansion:solarCoreT3.name=Solar Core [Tier 3]
+item.solarexpansion:solarCoreT4.name=Solar Core [Tier 4]
+item.solarexpansion:solarCoreT5.name=Solar Core [Tier 5]
+item.solarexpansion:solarCoreT6.name=Solar Core [Tier 6]
+item.solarexpansion:solarCoreT7.name=Solar Core [Tier 7]
+item.solarexpansion:solarCoreT8.name=Solar Core [Tier 8]
+item.solarexpansion:solarCoreT9.name=Solar Core [Tier 9]
+item.solarexpansion:solarCoreT10.name=Solar Core [Tier 10]
+item.solarexpansion:solarCoreT11.name=Solar Core [Tier 11]
+item.solarexpansion:solarCoreT12.name=Solar Core [Tier 12]
+item.solarexpansion:solarCoreT13.name=Solar Core [Tier 13]
+item.solarexpansion:solarCoreT14.name=Solar Core [Tier 14]
+item.solarexpansion:solarCoreT15.name=Solar Core [Tier 15]
+item.solarexpansion:solarCoreT16.name=Solar Core [Tier 16]
+
+item.solarexpansion:photovoltaicCellT1.name=Photovoltaic Cell [Tier 1]
+item.solarexpansion:photovoltaicCellT2.name=Photovoltaic Cell [Tier 2]
+item.solarexpansion:photovoltaicCellT3.name=Photovoltaic Cell [Tier 3]
+item.solarexpansion:photovoltaicCellT4.name=Photovoltaic Cell [Tier 4]
+item.solarexpansion:photovoltaicCellT5.name=Photovoltaic Cell [Tier 5]
+item.solarexpansion:photovoltaicCellT6.name=Photovoltaic Cell [Tier 6]
+item.solarexpansion:photovoltaicCellT7.name=Photovoltaic Cell [Tier 7]
+item.solarexpansion:photovoltaicCellT8.name=Photovoltaic Cell [Tier 8]
+item.solarexpansion:photovoltaicCellT9.name=Photovoltaic Cell [Tier 9]
+item.solarexpansion:photovoltaicCellT10.name=Photovoltaic Cell [Tier 10]
+item.solarexpansion:photovoltaicCellT11.name=Photovoltaic Cell [Tier 11]
+item.solarexpansion:photovoltaicCellT12.name=Photovoltaic Cell [Tier 12]
+item.solarexpansion:photovoltaicCellT13.name=Photovoltaic Cell [Tier 13]
+item.solarexpansion:photovoltaicCellT14.name=Photovoltaic Cell [Tier 14]
+item.solarexpansion:photovoltaicCellT15.name=Photovoltaic Cell [Tier 15]
+item.solarexpansion:photovoltaicCellT16.name=Photovoltaic Cell [Tier 16]
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=Generation
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=Transfer
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=Capacity
+
+info.shad0wb1ade.solarexpansion.items.components=This is just a crafting component.
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=Hold
+info.shad0wb1ade.solarexpansion.shiftkey=Shift
+info.shad0wb1ade.solarexpansion.shiftkey.down=for Details
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=Hold
+info.shad0wb1ade.solarexpansion.controlkey=Control
+info.shad0wb1ade.solarexpansion.controlkey.down=for Details
