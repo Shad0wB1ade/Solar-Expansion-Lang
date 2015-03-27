@@ -18,6 +18,13 @@ item.solarexpansion:solarCoreResonant.name=공진 태양광 코어
 item.solarexpansion:solarCoreAdvanced.name=향상된 태양광 코어
 item.solarexpansion:solarCoreUltimate.name=궁극의 태양광 코어
 
+items.solarexpansion:solarHelmetLeadstone.name=리드스톤 태양광 헬멧
+items.solarexpansion:solarHelmetHardened.name=경화 태양광 헬멧
+items.solarexpansion:solarHelmetRedstone.name=레드스톤 태양광 헬멧
+items.solarexpansion:solarHelmetResonant.name=공진 태양광 헬멧
+items.solarexpansion:solarHelmetAdvanced.name=향상된 태양광 헬멧
+items.solarexpansion:solarHelmetUltimate.name=궁극의 태양광 헬멧
+
 items.solarexpansion:steelIngot.name=강철괴
 items.solarexpansion:steelNugget.name=강철 조각
 items.solarexpansion:lapisShard.name=청금석 조각
