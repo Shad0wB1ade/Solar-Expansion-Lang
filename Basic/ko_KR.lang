@@ -5,7 +5,7 @@ itemGroup.solarexpansion=솔라 익스펜션
 
 tile.solarexpansion:solarPanelLeadstone.name=리드스톤 태양 전지판
 tile.solarexpansion:solarPanelHardened.name=경화 태양 전지판
-tile.solarexpansion:solarPanelRedstone.name=리드스톤 태양 전지판
+tile.solarexpansion:solarPanelRedstone.name=레드스톤 태양 전지판
 tile.solarexpansion:solarPanelResonant.name=공진 태양 전지판
 tile.solarexpansion:solarPanelAdvanced.name=향상된 태양 전지판
 tile.solarexpansion:solarPanelUltimate.name=궁극의 태양 전지판
@@ -17,6 +17,10 @@ item.solarexpansion:solarCoreRedstone.name=레드스톤 태양광 코어
 item.solarexpansion:solarCoreResonant.name=공진 태양광 코어
 item.solarexpansion:solarCoreAdvanced.name=향상된 태양광 코어
 item.solarexpansion:solarCoreUltimate.name=궁극의 태양광 코어
+
+items.solarexpansion:steelIngot.name=강철괴
+items.solarexpansion:steelNugget.name=강철 조각
+items.solarexpansion:lapisShard.name=청금석 조각
 
 info.shad0wb1ade.solarexpansion.solarpanel.generation=에너지 발전량
 info.shad0wb1ade.solarexpansion.solarpanel.transfer=에너지 출력량
@@ -31,3 +35,17 @@ info.shad0wb1ade.solarexpansion.shiftkey.down= 키를 눌러서 자세한 정보
 info.shad0wb1ade.solarexpansion.controlkey.hold=
 info.shad0wb1ade.solarexpansion.controlkey=Control
 info.shad0wb1ade.solarexpansion.controlkey.down= 키를 눌러서 자세한 정보 보기
+
+achievement.pageName=솔라 익스펜션
+achievement.solarPanelLeadstoneAch=기초적인 에너지 발전
+achievement.solarPanelLeadstoneAch.desc=리드스톤 태양 전지판을 설치하세요.
+achievement.solarPanelHardenedAch=에너지를 더 공급해야합니다.
+achievement.solarPanelHardenedAch.desc=경화 태양 전지판을 설치하세요.
+achievement.solarPanelRedstoneAch=더 많은 에너지!
+achievement.solarPanelRedstoneAch.desc=레드스톤 태양 전지판을 설치하세요.
+achievement.solarPanelResonantAch=에너지 과부하
+achievement.solarPanelResonantAch.desc=공진 태양 전지판을 설치하세요.
+achievement.solarPanelAdvancedAch=치명적인 에너지 등급
+achievement.solarPanelAdvancedAch.desc=향상된 태양 전지판을 설치하세요.
+achievement.solarPanelUltimateAch=우리의 에너지 발전량이 세계제이이이이이이이이이이일!
+achievement.solarPanelUltimateAch.desc=궁극의 태양 전지판을 설치하세요.
