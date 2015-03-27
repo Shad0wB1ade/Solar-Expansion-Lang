@@ -1,0 +1,86 @@
+### Solar Expansion Korean Localization File ###
+
+itemGroup.solarexpansion=솔라 익스펜션
+
+tile.solarexpansion:solarPanelT1.name=태양 전지판 [등급 1]
+tile.solarexpansion:solarPanelT2.name=태양 전지판 [등급 2]
+tile.solarexpansion:solarPanelT3.name=태양 전지판 [등급 3]
+tile.solarexpansion:solarPanelT4.name=태양 전지판 [등급 4]
+tile.solarexpansion:solarPanelT5.name=태양 전지판 [등급 5]
+tile.solarexpansion:solarPanelT6.name=태양 전지판 [등급 6]
+tile.solarexpansion:solarPanelT7.name=태양 전지판 [등급 7]
+tile.solarexpansion:solarPanelT8.name=태양 전지판 [등급 8]
+tile.solarexpansion:solarPanelT9.name=태양 전지판 [등급 9]
+tile.solarexpansion:solarPanelT10.name=태양 전지판 [등급 10]
+tile.solarexpansion:solarPanelT11.name=태양 전지판 [등급 11]
+tile.solarexpansion:solarPanelT12.name=태양 전지판 [등급 12]
+tile.solarexpansion:solarPanelT13.name=태양 전지판 [등급 13]
+tile.solarexpansion:solarPanelT14.name=태양 전지판 [등급 14]
+tile.solarexpansion:solarPanelT15.name=태양 전지판 [등급 15]
+tile.solarexpansion:solarPanelT16.name=태양 전지판 [등급 16]
+
+item.solarexpansion:solarCoreT1.name=태양광 코어 [등급 1]
+item.solarexpansion:solarCoreT2.name=태양광 코어 [등급 2]
+item.solarexpansion:solarCoreT3.name=태양광 코어 [등급 3]
+item.solarexpansion:solarCoreT4.name=태양광 코어 [등급 4]
+item.solarexpansion:solarCoreT5.name=태양광 코어 [등급 5]
+item.solarexpansion:solarCoreT6.name=태양광 코어 [등급 6]
+item.solarexpansion:solarCoreT7.name=태양광 코어 [등급 7]
+item.solarexpansion:solarCoreT8.name=태양광 코어 [등급 8]
+item.solarexpansion:solarCoreT9.name=태양광 코어 [등급 9]
+item.solarexpansion:solarCoreT10.name=태양광 코어 [등급 10]
+item.solarexpansion:solarCoreT11.name=태양광 코어 [등급 11]
+item.solarexpansion:solarCoreT12.name=태양광 코어 [등급 12]
+item.solarexpansion:solarCoreT13.name=태양광 코어 [등급 13]
+item.solarexpansion:solarCoreT14.name=태양광 코어 [등급 14]
+item.solarexpansion:solarCoreT15.name=태양광 코어 [등급 15]
+item.solarexpansion:solarCoreT16.name=태양광 코어 [등급 16]
+
+item.solarexpansion:photovoltaicCellT1.name=태양 전지 [등급 1]
+item.solarexpansion:photovoltaicCellT2.name=태양 전지 [등급 2]
+item.solarexpansion:photovoltaicCellT3.name=태양 전지 [등급 3]
+item.solarexpansion:photovoltaicCellT4.name=태양 전지 [등급 4]
+item.solarexpansion:photovoltaicCellT5.name=태양 전지 [등급 5]
+item.solarexpansion:photovoltaicCellT6.name=태양 전지 [등급 6]
+item.solarexpansion:photovoltaicCellT7.name=태양 전지 [등급 7]
+item.solarexpansion:photovoltaicCellT8.name=태양 전지 [등급 8]
+item.solarexpansion:photovoltaicCellT9.name=태양 전지 [등급 9]
+item.solarexpansion:photovoltaicCellT10.name=태양 전지 [등급 10]
+item.solarexpansion:photovoltaicCellT11.name=태양 전지 [등급 11]
+item.solarexpansion:photovoltaicCellT12.name=태양 전지 [등급 12]
+item.solarexpansion:photovoltaicCellT13.name=태양 전지 [등급 13]
+item.solarexpansion:photovoltaicCellT14.name=태양 전지 [등급 14]
+item.solarexpansion:photovoltaicCellT15.name=태양 전지 [등급 15]
+item.solarexpansion:photovoltaicCellT16.name=태양 전지 [등급 16]
+
+items.solarexpansion:steelIngot.name=강철괴
+items.solarexpansion:steelNugget.name=강철 조각
+items.solarexpansion:lapisShard.name=청금석 조각
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=에너지 발전량
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=에너지 출력량
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=에너지 저장량
+
+info.shad0wb1ade.solarexpansion.items.components=조합용 부품입니다.
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=
+info.shad0wb1ade.solarexpansion.shiftkey=Shift
+info.shad0wb1ade.solarexpansion.shiftkey.down= 키를 눌러서 자세한 정보 보기
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=
+info.shad0wb1ade.solarexpansion.controlkey=Control
+info.shad0wb1ade.solarexpansion.controlkey.down= 키를 눌러서 자세한 정보 보기
+
+achievement.pageName=솔라 익스펜션
+achievement.solarPanelLeadstoneAch=기초적인 에너지 발전
+achievement.solarPanelLeadstoneAch.desc=리드스톤 태양 전지판을 설치하세요.
+achievement.solarPanelHardenedAch=에너지를 더 공급해야합니다.
+achievement.solarPanelHardenedAch.desc=경화 태양 전지판을 설치하세요.
+achievement.solarPanelRedstoneAch=더 많은 에너지!
+achievement.solarPanelRedstoneAch.desc=레드스톤 태양 전지판을 설치하세요.
+achievement.solarPanelResonantAch=에너지 과부하
+achievement.solarPanelResonantAch.desc=공진 태양 전지판을 설치하세요.
+achievement.solarPanelAdvancedAch=치명적인 에너지 등급
+achievement.solarPanelAdvancedAch.desc=향상된 태양 전지판을 설치하세요.
+achievement.solarPanelUltimateAch=우리의 에너지 발전량이 세계제이이이이이이이이이이일!
+achievement.solarPanelUltimateAch.desc=궁극의 태양 전지판을 설치하세요.
