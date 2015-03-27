@@ -10,7 +10,7 @@ tile.solarexpansion:solarPanelResonant.name=공진 태양 전지판
 tile.solarexpansion:solarPanelAdvanced.name=향상된 태양 전지판
 tile.solarexpansion:solarPanelUltimate.name=궁극의 태양 전지판
 
-item.solarexpansion:photovoltaicCell.name=광전지
+item.solarexpansion:photovoltaicCell.name=태양 전지
 item.solarexpansion:solarCoreLeadstone.name=리드스톤 태양광 코어
 item.solarexpansion:solarCoreHardened.name=경화 태양광 코어
 item.solarexpansion:solarCoreRedstone.name=레드스톤 태양광 코어
