@@ -1,33 +1,33 @@
 ### Solar Expansion Korean Localization File ###
-### Insert your name here and remove my: Nark31 ###
+### Nark31 ###
 
-itemGroup.solarexpansion=Solar Expansion
+itemGroup.solarexpansion=솔라 익스펜션
 
-tile.solarexpansion:solarPanelLeadstone.name=Leadstone Solar Panel
-tile.solarexpansion:solarPanelHardened.name=Hardened Solar Panel
-tile.solarexpansion:solarPanelRedstone.name=Redstone Solar Panel
-tile.solarexpansion:solarPanelResonant.name=Resonant Solar Panel
-tile.solarexpansion:solarPanelAdvanced.name=Advanced Solar Panel
-tile.solarexpansion:solarPanelUltimate.name=Ultimate Solar Panel
+tile.solarexpansion:solarPanelLeadstone.name=리드스톤 태양 전지판
+tile.solarexpansion:solarPanelHardened.name=경화 태양 전지판
+tile.solarexpansion:solarPanelRedstone.name=리드스톤 태양 전지판
+tile.solarexpansion:solarPanelResonant.name=공진 태양 전지판
+tile.solarexpansion:solarPanelAdvanced.name=향상된 태양 전지판
+tile.solarexpansion:solarPanelUltimate.name=궁극의 태양 전지판
 
-item.solarexpansion:photovoltaicCell.name=Photovoltaic Cell
-item.solarexpansion:solarCoreLeadstone.name=Leadstone Solar Core
-item.solarexpansion:solarCoreHardened.name=Hardened Solar Core
-item.solarexpansion:solarCoreRedstone.name=Redstone Solar Core
-item.solarexpansion:solarCoreResonant.name=Resonant Solar Core
-item.solarexpansion:solarCoreAdvanced.name=Advanced Solar Core
-item.solarexpansion:solarCoreUltimate.name=Ultimate Solar Core
+item.solarexpansion:photovoltaicCell.name=광전지
+item.solarexpansion:solarCoreLeadstone.name=리드스톤 태양광 코어
+item.solarexpansion:solarCoreHardened.name=경화 태양광 코어
+item.solarexpansion:solarCoreRedstone.name=레드스톤 태양광 코어
+item.solarexpansion:solarCoreResonant.name=공진 태양광 코어
+item.solarexpansion:solarCoreAdvanced.name=향상된 태양광 코어
+item.solarexpansion:solarCoreUltimate.name=궁극의 태양광 코어
 
-info.shad0wb1ade.solarexpansion.solarpanel.generation=Generation
-info.shad0wb1ade.solarexpansion.solarpanel.transfer=Transfer
-info.shad0wb1ade.solarexpansion.solarpanel.capacity=Capacity
+info.shad0wb1ade.solarexpansion.solarpanel.generation=에너지 발전량
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=에너지 출력량
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=에너지 저장량
 
-info.shad0wb1ade.solarexpansion.items.components=This is just a crafting component.
+info.shad0wb1ade.solarexpansion.items.components=조합용 부품입니다.
 
-info.shad0wb1ade.solarexpansion.shiftkey.hold=Hold
+info.shad0wb1ade.solarexpansion.shiftkey.hold=
 info.shad0wb1ade.solarexpansion.shiftkey=Shift
-info.shad0wb1ade.solarexpansion.shiftkey.down=for Details
+info.shad0wb1ade.solarexpansion.shiftkey.down= 키를 눌러서 자세한 정보 보기
 
-info.shad0wb1ade.solarexpansion.controlkey.hold=Hold
+info.shad0wb1ade.solarexpansion.controlkey.hold=
 info.shad0wb1ade.solarexpansion.controlkey=Control
-info.shad0wb1ade.solarexpansion.controlkey.down=for Details
+info.shad0wb1ade.solarexpansion.controlkey.down= 키를 눌러서 자세한 정보 보기
