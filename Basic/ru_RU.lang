@@ -1,33 +1,34 @@
-﻿### Solar Expansion English Localization File ###
+﻿### Русский перевод Solar Expansion ###
+### Solar Expansion Russian Localization File ###
 ### Insert your name here and remove my: Shad0wB1ade ###
 
 itemGroup.solarexpansion=Solar Expansion
 
-tile.solarexpansion:solarPanelLeadstone.name=Свинцовая Солнечная Панель
-tile.solarexpansion:solarPanelHardened.name=Усиленная Солнечная Панель
-tile.solarexpansion:solarPanelRedstone.name=Красная Солнечная Панель
-tile.solarexpansion:solarPanelResonant.name=Резонирующая Солнечная Панель
-tile.solarexpansion:solarPanelAdvanced.name=Улучшенная Солнечная Панель
-tile.solarexpansion:solarPanelUltimate.name=Ультимейт Солнечная Панель
+tile.solarexpansion:solarPanelLeadstone.name=Свинцовая солнечная панель
+tile.solarexpansion:solarPanelHardened.name=Усиленная солнечная панель
+tile.solarexpansion:solarPanelRedstone.name=Красная солнечная панель
+tile.solarexpansion:solarPanelResonant.name=Резонирующая солнечная панель
+tile.solarexpansion:solarPanelAdvanced.name=Улучшенная солнечная панель
+tile.solarexpansion:solarPanelUltimate.name=Максимальная солнечная панель
 
-item.solarexpansion:photovoltaicCell.name=Фотоэлектрическая Ячейка
-item.solarexpansion:solarCoreLeadstone.name=Свинцовое Солнечное Ядро
-item.solarexpansion:solarCoreHardened.name=Усиленное Солнечное Ядро
-item.solarexpansion:solarCoreRedstone.name=Красное Солнечное Ядро
-item.solarexpansion:solarCoreResonant.name=Резонирующое Солнечное Ядро
-item.solarexpansion:solarCoreAdvanced.name=Улучшенное Солнечное Ядро
-item.solarexpansion:solarCoreUltimate.name=Ультимейт Солнечное Ядро
+item.solarexpansion:photovoltaicCell.name=Фотоэлектрическая ячейка
+item.solarexpansion:solarCoreLeadstone.name=Свинцовое солнечное ядро
+item.solarexpansion:solarCoreHardened.name=Усиленное солнечное ядро
+item.solarexpansion:solarCoreRedstone.name=Красное солнечное ядро
+item.solarexpansion:solarCoreResonant.name=Резонирующее солнечное ядро
+item.solarexpansion:solarCoreAdvanced.name=Улучшенное солнечное ядро
+item.solarexpansion:solarCoreUltimate.name=Максимальное солнечное ядро
 
 info.shad0wb1ade.solarexpansion.solarpanel.generation=Генерация
 info.shad0wb1ade.solarexpansion.solarpanel.transfer=Передача
 info.shad0wb1ade.solarexpansion.solarpanel.capacity=Вместимость
 
-info.shad0wb1ade.solarexpansion.items.components=Это просто компонент для крафта.
+info.shad0wb1ade.solarexpansion.items.components=Это просто компонент для изготовления.
 
 info.shad0wb1ade.solarexpansion.shiftkey.hold=Удерживайте
 info.shad0wb1ade.solarexpansion.shiftkey=Shift
-info.shad0wb1ade.solarexpansion.shiftkey.down=для Деталей
+info.shad0wb1ade.solarexpansion.shiftkey.down=для деталей
 
 info.shad0wb1ade.solarexpansion.controlkey.hold=Удерживайте
 info.shad0wb1ade.solarexpansion.controlkey=Control
-info.shad0wb1ade.solarexpansion.controlkey.down=для Деталей
+info.shad0wb1ade.solarexpansion.controlkey.down=для деталей
