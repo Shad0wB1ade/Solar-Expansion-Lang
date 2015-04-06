@@ -1,6 +1,6 @@
 ﻿### Русский перевод Solar Expansion ###
 ### Solar Expansion Russian Localization File ###
-### Insert your name here and remove my: Shad0wB1ade ###
+### Author: Shad0wB1ade ###
 
 itemGroup.solarexpansion=Solar Expansion
 
@@ -11,13 +11,22 @@ tile.solarexpansion:solarPanelResonant.name=Резонирующая солне�
 tile.solarexpansion:solarPanelAdvanced.name=Улучшенная солнечная панель
 tile.solarexpansion:solarPanelUltimate.name=Максимальная солнечная панель
 
-item.solarexpansion:photovoltaicCell.name=Фотоэлектрическая ячейка
-item.solarexpansion:solarCoreLeadstone.name=Свинцовое солнечное ядро
-item.solarexpansion:solarCoreHardened.name=Усиленное солнечное ядро
-item.solarexpansion:solarCoreRedstone.name=Красное солнечное ядро
-item.solarexpansion:solarCoreResonant.name=Резонирующее солнечное ядро
-item.solarexpansion:solarCoreAdvanced.name=Улучшенное солнечное ядро
-item.solarexpansion:solarCoreUltimate.name=Максимальное солнечное ядро
+items.solarexpansion:steelIngot.name=Стальной слиток
+items.solarexpansion:steelNugget.name=Стальной самородок
+items.solarexpansion:lapisShard.name=Лазуритный осколок
+items.solarexpansion:photovoltaicCell.name=Фотоэлектрическая ячейка
+items.solarexpansion:solarCoreLeadstone.name=Свинцовое солнечное ядро
+items.solarexpansion:solarCoreHardened.name=Усиленное солнечное ядро
+items.solarexpansion:solarCoreRedstone.name=Красное солнечное ядро
+items.solarexpansion:solarCoreResonant.name=Резонирующое солнечное ядро
+items.solarexpansion:solarCoreAdvanced.name=Улучшенное солнечное ядро
+items.solarexpansion:solarCoreUltimate.name=Максимальное солнечное ядро
+items.solarexpansion:solarHelmetLeadstone.name=Свинцовый солнечный шлем
+items.solarexpansion:solarHelmetHardened.name=Усиленный солнечный шлем
+items.solarexpansion:solarHelmetRedstone.name=Красный солнечный шлем
+items.solarexpansion:solarHelmetResonant.name=Резонирующий солнечный шлем
+items.solarexpansion:solarHelmetAdvanced.name=Улучшенный солнечный шлем
+items.solarexpansion:solarHelmetUltimate.name=Максимальный солнечный шлем
 
 info.shad0wb1ade.solarexpansion.solarpanel.generation=Генерация
 info.shad0wb1ade.solarexpansion.solarpanel.transfer=Передача
@@ -32,3 +41,23 @@ info.shad0wb1ade.solarexpansion.shiftkey.down=для деталей
 info.shad0wb1ade.solarexpansion.controlkey.hold=Удерживайте
 info.shad0wb1ade.solarexpansion.controlkey=Control
 info.shad0wb1ade.solarexpansion.controlkey.down=для деталей
+
+achievement.pageName=Solar Expansion
+
+achievement.solarPanelLeadstoneAch=Начальная мощность.
+achievement.solarPanelLeadstoneAch.desc=Разместить свинцовую солнечную панель в мире.
+
+achievement.solarPanelHardenedAch=Улучшаем потихоньку.
+achievement.solarPanelHardenedAch.desc=Разместить усиленную солнечную панель в мире.
+
+achievement.solarPanelRedstoneAch=Хорошо, но может быть лучше.
+achievement.solarPanelRedstoneAch.desc=Разместить красную солнечную панель в мире.
+
+achievement.solarPanelResonantAch=Вооот!!! Другое дело.
+achievement.solarPanelResonantAch.desc=Разместить резонирующую солнечную панель в мире.
+
+achievement.solarPanelAdvancedAch=Внимание! Перегрузка!
+achievement.solarPanelAdvancedAch.desc=Разместить улучшенную солнечную панель в мире.
+
+achievement.solarPanelUltimateAch=БОЛЬШЕ 9000!
+achievement.solarPanelUltimateAch.desc=Разместить максимальную солнечную панель в мире.
