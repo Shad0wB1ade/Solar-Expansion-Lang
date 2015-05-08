@@ -1,0 +1,64 @@
+﻿### Solar Expansion French Localization File ###
+### Fichier de Traduction Francaise pour Solar Expansion ###
+### Author: HanatakeYurii ###
+
+itemGroup.solarexpansion=Solar Expansion
+
+item.solarexpansion:steelIngot.name=Lingot d'Acier
+item.solarexpansion:steelNugget.name=Pépite d'Acier
+item.solarexpansion:lapisShard.name=Eclat de Lapis
+item.solarexpansion:photovoltaicCell.name=Cellule Photovoltaique
+item.solarexpansion:solarCoreLeadstone.name=Coeur Solaire Plombé
+item.solarexpansion:solarCoreHardened.name=Coeur Solaire Durci
+item.solarexpansion:solarCoreRedstone.name=Coeur Solaire Redstoné
+item.solarexpansion:solarCoreResonant.name=Coeur Solaire Résonant
+item.solarexpansion:solarCoreAdvanced.name=Coeur Solaire Avancé
+item.solarexpansion:solarCoreUltimate.name=Coeur Solaire Ultime
+item.solarexpansion:solarHelmetLeadstone.name=Casque Solaire Plombé
+item.solarexpansion:solarHelmetHardened.name=Casque Solaire Durci
+item.solarexpansion:solarHelmetRedstone.name=Casque Solaire Redstoné
+item.solarexpansion:solarHelmetResonant.name=Casque Solaire Résonant
+item.solarexpansion:solarHelmetAdvanced.name=Casque Solaire Avancé
+item.solarexpansion:solarHelmetUltimate.name=Casque Solaire Ultime
+
+tile.solarexpansion:solarPanelLeadstone.name=Panneau Solaire Plombé
+tile.solarexpansion:solarPanelHardened.name=Panneau Solaire Durci
+tile.solarexpansion:solarPanelRedstone.name=Panneau Solaire Redstoné
+tile.solarexpansion:solarPanelResonant.name=Panneau Solaire Resonant
+tile.solarexpansion:solarPanelAdvanced.name=Panneau Solaire Avancé
+tile.solarexpansion:solarPanelUltimate.name=Panneau Solaire Ultime
+
+info.solarexpansion.solarpanel.currentGeneration=Génération Actuelle
+info.solarexpansion.solarpanel.generation=Génération
+info.solarexpansion.solarpanel.transfer=Transfert
+info.solarexpansion.solarpanel.capacity=Capacité
+
+info.solarexpansion.items.components=Juste un composant.
+
+info.solarexpansion.shiftkey.hold=Maintenir
+info.solarexpansion.shiftkey=Shift-Maj
+info.solarexpansion.shiftkey.down=pour les Détails
+
+info.solarexpansion.controlkey.hold=Maintenir
+info.solarexpansion.controlkey=Contrôle
+info.solarexpansion.controlkey.down=pour le Niveau d'Energie
+
+achievement.pageName=Solar Expansion
+
+achievement.solarPanelLeadstoneAch=Energie basique.
+achievement.solarPanelLeadstoneAch.desc=Posez un Panneau Solaire Plombé.
+
+achievement.solarPanelHardenedAch=Montée en Puissance.
+achievement.solarPanelHardenedAch.desc=Posez un Panneau Solaire Durci.
+
+achievement.solarPanelRedstoneAch=PLUS DE PUISSANCE!
+achievement.solarPanelRedstoneAch.desc=Posez un Panneau Solaire Redstoné.
+
+achievement.solarPanelResonantAch=Surcharge!
+achievement.solarPanelResonantAch.desc=Posez un Panneau Solaire Résonant.
+
+achievement.solarPanelAdvancedAch=Niveau d'Energie Critique.
+achievement.solarPanelAdvancedAch.desc=Posez un Panneau Solaire Avancé.
+
+achievement.solarPanelUltimateAch=PLUS DE 9000!
+achievement.solarPanelUltimateAch.desc=Posez un Panneau Solaire Ultime.
