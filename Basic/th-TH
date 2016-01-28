@@ -1,0 +1,33 @@
+﻿### Solar Expansion English Localization File ###
+### Insert your name here and remove my: Theerapak ###
+
+itemGroup.solarexpansion=ขยายแผงโซลาร์เซลล์
+
+tile.solarexpansion:solarPanelLeadstone.name=แผงโซลาร์เซล์ลLeadstone
+tile.solarexpansion:solarPanelHardened.name=แผงโซลาร์เซล์Hardened
+tile.solarexpansion:solarPanelRedstone.name=แผงโซลาร์เซล์Redstone
+tile.solarexpansion:solarPanelResonant.name=แผงโซลาร์เซล์Resonant
+tile.solarexpansion:solarPanelAdvanced.name=แผงโซลาร์เซล์Advanced
+tile.solarexpansion:solarPanelUltimate.name=แผงโซลาร์เซล์Ultimate
+
+item.solarexpansion:photovoltaicCell.name=เซลล์โฟโตวอลเทอิก
+item.solarexpansion:solarCoreLeadstone.name=แก่นโซลาร์Leadstone
+item.solarexpansion:solarCoreHardened.name=แก่นโซลาร์Hardened
+item.solarexpansion:solarCoreRedstone.name=แก่นโซลาร์Redstone
+item.solarexpansion:solarCoreResonant.name=แก่นโซลาร์Resonant
+item.solarexpansion:solarCoreAdvanced.name=แก่นโซลาร์Advanced
+item.solarexpansion:solarCoreUltimate.name=แก่นโซลาร์Ultimate
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=กำลังผลิต
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=เคลื่อนย้ายได้
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=ความจุ
+
+info.shad0wb1ade.solarexpansion.items.components=นี่เป็นแค่ส่วนประกอบของการคราฟ
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=กดค้าง
+info.shad0wb1ade.solarexpansion.shiftkey=ปุ่มShift
+info.shad0wb1ade.solarexpansion.shiftkey.down=เพื่อดูรายละเอียด
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=Hold
+info.shad0wb1ade.solarexpansion.controlkey=Control
+info.shad0wb1ade.solarexpansion.controlkey.down=for Details
