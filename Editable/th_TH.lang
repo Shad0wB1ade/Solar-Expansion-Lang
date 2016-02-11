@@ -19,50 +19,50 @@ tile.solarexpansion:solarPanelT14.name=แผงโซลาร์ [Tier 14]
 tile.solarexpansion:solarPanelT15.name=แผงโซลาร์ [Tier 15]
 tile.solarexpansion:solarPanelT16.name=แผงโซลาร์ [Tier 16]
 
-item.solarexpansion:solarCoreT1.name=Solar Core [Tier 1]
-item.solarexpansion:solarCoreT2.name=Solar Core [Tier 2]
-item.solarexpansion:solarCoreT3.name=Solar Core [Tier 3]
-item.solarexpansion:solarCoreT4.name=Solar Core [Tier 4]
-item.solarexpansion:solarCoreT5.name=Solar Core [Tier 5]
-item.solarexpansion:solarCoreT6.name=Solar Core [Tier 6]
-item.solarexpansion:solarCoreT7.name=Solar Core [Tier 7]
-item.solarexpansion:solarCoreT8.name=Solar Core [Tier 8]
-item.solarexpansion:solarCoreT9.name=Solar Core [Tier 9]
-item.solarexpansion:solarCoreT10.name=Solar Core [Tier 10]
-item.solarexpansion:solarCoreT11.name=Solar Core [Tier 11]
-item.solarexpansion:solarCoreT12.name=Solar Core [Tier 12]
-item.solarexpansion:solarCoreT13.name=Solar Core [Tier 13]
-item.solarexpansion:solarCoreT14.name=Solar Core [Tier 14]
-item.solarexpansion:solarCoreT15.name=Solar Core [Tier 15]
-item.solarexpansion:solarCoreT16.name=Solar Core [Tier 16]
+item.solarexpansion:solarCoreT1.name=แก่นโซลาร์ [Tier 1]
+item.solarexpansion:solarCoreT2.name==แก่นโซลาร์ [Tier 2]
+item.solarexpansion:solarCoreT3.name==แก่นโซลาร์ [Tier 3]
+item.solarexpansion:solarCoreT4.name==แก่นโซลาร์ [Tier 4]
+item.solarexpansion:solarCoreT5.name==แก่นโซลาร์ [Tier 5]
+item.solarexpansion:solarCoreT6.name==แก่นโซลาร์ [Tier 6]
+item.solarexpansion:solarCoreT7.name==แก่นโซลาร์ [Tier 7]
+item.solarexpansion:solarCoreT8.name==แก่นโซลาร์ [Tier 8]
+item.solarexpansion:solarCoreT9.name==แก่นโซลาร์ [Tier 9]
+item.solarexpansion:solarCoreT10.name==แก่นโซลาร์ [Tier 10]
+item.solarexpansion:solarCoreT11.name==แก่นโซลาร์ [Tier 11]
+item.solarexpansion:solarCoreT12.name==แก่นโซลาร์ [Tier 12]
+item.solarexpansion:solarCoreT13.name==แก่นโซลาร์ [Tier 13]
+item.solarexpansion:solarCoreT14.name==แก่นโซลาร์ [Tier 14]
+item.solarexpansion:solarCoreT15.name==แก่นโซลาร์ [Tier 15]
+item.solarexpansion:solarCoreT16.name==แก่นโซลาร์ [Tier 16]
 
-item.solarexpansion:photovoltaicCellT1.name=Photovoltaic Cell [Tier 1]
-item.solarexpansion:photovoltaicCellT2.name=Photovoltaic Cell [Tier 2]
-item.solarexpansion:photovoltaicCellT3.name=Photovoltaic Cell [Tier 3]
-item.solarexpansion:photovoltaicCellT4.name=Photovoltaic Cell [Tier 4]
-item.solarexpansion:photovoltaicCellT5.name=Photovoltaic Cell [Tier 5]
-item.solarexpansion:photovoltaicCellT6.name=Photovoltaic Cell [Tier 6]
-item.solarexpansion:photovoltaicCellT7.name=Photovoltaic Cell [Tier 7]
-item.solarexpansion:photovoltaicCellT8.name=Photovoltaic Cell [Tier 8]
-item.solarexpansion:photovoltaicCellT9.name=Photovoltaic Cell [Tier 9]
-item.solarexpansion:photovoltaicCellT10.name=Photovoltaic Cell [Tier 10]
-item.solarexpansion:photovoltaicCellT11.name=Photovoltaic Cell [Tier 11]
-item.solarexpansion:photovoltaicCellT12.name=Photovoltaic Cell [Tier 12]
-item.solarexpansion:photovoltaicCellT13.name=Photovoltaic Cell [Tier 13]
-item.solarexpansion:photovoltaicCellT14.name=Photovoltaic Cell [Tier 14]
-item.solarexpansion:photovoltaicCellT15.name=Photovoltaic Cell [Tier 15]
-item.solarexpansion:photovoltaicCellT16.name=Photovoltaic Cell [Tier 16]
+item.solarexpansion:photovoltaicCellT1.name=เซลล์โฟโต้วอลเทอิก [Tier 1]
+item.solarexpansion:photovoltaicCellT2.name=เซลล์โฟโต้วอลเทอิก [Tier 2]
+item.solarexpansion:photovoltaicCellT3.name=เซลล์โฟโต้วอลเทอิก [Tier 3]
+item.solarexpansion:photovoltaicCellT4.name=เซลล์โฟโต้วอลเทอิก [Tier 4]
+item.solarexpansion:photovoltaicCellT5.name=เซลล์โฟโต้วอลเทอิก [Tier 5]
+item.solarexpansion:photovoltaicCellT6.name=เซลล์โฟโต้วอลเทอิก [Tier 6]
+item.solarexpansion:photovoltaicCellT7.name=เซลล์โฟโต้วอลเทอิก [Tier 7]
+item.solarexpansion:photovoltaicCellT8.name=เซลล์โฟโต้วอลเทอิก [Tier 8]
+item.solarexpansion:photovoltaicCellT9.name=เซลล์โฟโต้วอลเทอิก [Tier 9]
+item.solarexpansion:photovoltaicCellT10.name=เซลล์โฟโต้วอลเทอิก [Tier 10]
+item.solarexpansion:photovoltaicCellT11.name=เซลล์โฟโต้วอลเทอิก [Tier 11]
+item.solarexpansion:photovoltaicCellT12.name=เซลล์โฟโต้วอลเทอิก [Tier 12]
+item.solarexpansion:photovoltaicCellT13.name=เซลล์โฟโต้วอลเทอิก [Tier 13]
+item.solarexpansion:photovoltaicCellT14.name=เซลล์โฟโต้วอลเทอิก [Tier 14]
+item.solarexpansion:photovoltaicCellT15.name=เซลล์โฟโต้วอลเทอิก [Tier 15]
+item.solarexpansion:photovoltaicCellT16.name=เซลล์โฟโต้วอลเทอิก [Tier 16]
 
-info.shad0wb1ade.solarexpansion.solarpanel.generation=Generation
-info.shad0wb1ade.solarexpansion.solarpanel.transfer=Transfer
-info.shad0wb1ade.solarexpansion.solarpanel.capacity=Capacity
+info.shad0wb1ade.solarexpansion.solarpanel.generation=กำลังผลิต
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=เคลื่อนย้ายได้
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=ความจุ
 
-info.shad0wb1ade.solarexpansion.items.components=This is just a crafting component.
+info.shad0wb1ade.solarexpansion.items.components=นี่เป็นแค่ส่วนประกอบของการคราฟ
 
-info.shad0wb1ade.solarexpansion.shiftkey.hold=Hold
-info.shad0wb1ade.solarexpansion.shiftkey=Shift
-info.shad0wb1ade.solarexpansion.shiftkey.down=for Details
+info.shad0wb1ade.solarexpansion.shiftkey.hold=กดค้าง
+info.shad0wb1ade.solarexpansion.shiftkey=ปุ่มShift
+info.shad0wb1ade.solarexpansion.shiftkey.down=เพื่อดูรายละเอียด
 
-info.shad0wb1ade.solarexpansion.controlkey.hold=Hold
-info.shad0wb1ade.solarexpansion.controlkey=Control
-info.shad0wb1ade.solarexpansion.controlkey.down=for Details
+info.shad0wb1ade.solarexpansion.controlkey.hold=กดค้าง
+info.shad0wb1ade.solarexpansion.controlkey=ปุ่มControl
+info.shad0wb1ade.solarexpansion.controlkey.down=เพื่อดูรายละเอียด
