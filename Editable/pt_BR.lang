@@ -1,0 +1,68 @@
+﻿### Solar Expansion Portuguese Localization File ###
+
+itemGroup.solarexpansion=Solar Expansion
+
+tile.solarexpansion:solarPanelT1.name=Painel Solar [Nível 1]
+tile.solarexpansion:solarPanelT2.name=Painel Solar [Nível 2]
+tile.solarexpansion:solarPanelT3.name=Painel Solar [Nível 3]
+tile.solarexpansion:solarPanelT4.name=Painel Solar [Nível 4]
+tile.solarexpansion:solarPanelT5.name=Painel Solar [Nível 5]
+tile.solarexpansion:solarPanelT6.name=Painel Solar [Nível 6]
+tile.solarexpansion:solarPanelT7.name=Painel Solar [Nível 7]
+tile.solarexpansion:solarPanelT8.name=Painel Solar [Nível 8]
+tile.solarexpansion:solarPanelT9.name=Painel Solar [Nível 9]
+tile.solarexpansion:solarPanelT10.name=Painel Solar [Nível 10]
+tile.solarexpansion:solarPanelT11.name=Painel Solar [Nível 11]
+tile.solarexpansion:solarPanelT12.name=Painel Solar [Nível 12]
+tile.solarexpansion:solarPanelT13.name=Painel Solar [Nível 13]
+tile.solarexpansion:solarPanelT14.name=Painel Solar [Nível 14]
+tile.solarexpansion:solarPanelT15.name=Painel Solar [Nível 15]
+tile.solarexpansion:solarPanelT16.name=Painel Solar [Nível 16]
+
+item.solarexpansion:solarCoreT1.name=Núcleo Solar [Nível 1]
+item.solarexpansion:solarCoreT2.name=Núcleo Solar [Nível 2]
+item.solarexpansion:solarCoreT3.name=Núcleo Solar [Nível 3]
+item.solarexpansion:solarCoreT4.name=Núcleo Solar [Nível 4]
+item.solarexpansion:solarCoreT5.name=Núcleo Solar [Nível 5]
+item.solarexpansion:solarCoreT6.name=Núcleo Solar [Nível 6]
+item.solarexpansion:solarCoreT7.name=Núcleo Solar [Nível 7]
+item.solarexpansion:solarCoreT8.name=Núcleo Solar [Nível 8]
+item.solarexpansion:solarCoreT9.name=Núcleo Solar [Nível 9]
+item.solarexpansion:solarCoreT10.name=Núcleo Solar [Nível 10]
+item.solarexpansion:solarCoreT11.name=Núcleo Solar [Nível 11]
+item.solarexpansion:solarCoreT12.name=Núcleo Solar [Nível 12]
+item.solarexpansion:solarCoreT13.name=Núcleo Solar [Nível 13]
+item.solarexpansion:solarCoreT14.name=Núcleo Solar [Nível 14]
+item.solarexpansion:solarCoreT15.name=Núcleo Solar [Nível 15]
+item.solarexpansion:solarCoreT16.name=Núcleo Solar [Nível 16]
+
+item.solarexpansion:photovoltaicCellT1.name=Célula de Fotossíntese [Nível 1]
+item.solarexpansion:photovoltaicCellT2.name=Célula de Fotossíntese [Nível 2]
+item.solarexpansion:photovoltaicCellT3.name=Célula de Fotossíntese [Nível 3]
+item.solarexpansion:photovoltaicCellT4.name=Célula de Fotossíntese [Nível 4]
+item.solarexpansion:photovoltaicCellT5.name=Célula de Fotossíntese [Nível 5]
+item.solarexpansion:photovoltaicCellT6.name=Célula de Fotossíntese [Nível 6]
+item.solarexpansion:photovoltaicCellT7.name=Célula de Fotossíntese [Nível 7]
+item.solarexpansion:photovoltaicCellT8.name=Célula de Fotossíntese [Nível 8]
+item.solarexpansion:photovoltaicCellT9.name=Célula de Fotossíntese [Nível 9]
+item.solarexpansion:photovoltaicCellT10.name=Célula de Fotossíntese [Nível 10]
+item.solarexpansion:photovoltaicCellT11.name=Célula de Fotossíntese [Nível 11]
+item.solarexpansion:photovoltaicCellT12.name=Célula de Fotossíntese [Nível 12]
+item.solarexpansion:photovoltaicCellT13.name=Célula de Fotossíntese [Nível 13]
+item.solarexpansion:photovoltaicCellT14.name=Célula de Fotossíntese [Nível 14]
+item.solarexpansion:photovoltaicCellT15.name=Célula de Fotossíntese [Nível 15]
+item.solarexpansion:photovoltaicCellT16.name=Célula de Fotossíntese [Nível 16]
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=Geração
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=Transferência
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=Capacidade
+
+info.shad0wb1ade.solarexpansion.items.components=Esse item é um componente para criação.
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=Segure
+info.shad0wb1ade.solarexpansion.shiftkey=Shift
+info.shad0wb1ade.solarexpansion.shiftkey.down=para Detalhes
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=Segure
+info.shad0wb1ade.solarexpansion.controlkey=Control
+info.shad0wb1ade.solarexpansion.controlkey.down=para Detalhes
