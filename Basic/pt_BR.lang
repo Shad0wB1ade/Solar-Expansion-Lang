@@ -1,0 +1,33 @@
+﻿### Solar Expansion Portuguese Localization File ###
+### deprilula28 ###
+
+itemGroup.solarexpansion=Solar Expansion
+
+tile.solarexpansion:solarPanelLeadstone.name=Painel Solar Básico
+tile.solarexpansion:solarPanelHardened.name=Painel Solar Endurecido
+tile.solarexpansion:solarPanelRedstone.name=Painel Solar Reforçado
+tile.solarexpansion:solarPanelResonant.name=Painel Solar Ressonante
+tile.solarexpansion:solarPanelAdvanced.name=Painel Solar Avançado
+tile.solarexpansion:solarPanelUltimate.name=Painel Solar Ultimata
+
+item.solarexpansion:photovoltaicCell.name=Célula de Fotossíntese
+item.solarexpansion:solarCoreLeadstone.name=Núcleo Solar Básico
+item.solarexpansion:solarCoreHardened.name=Núcleo Solar Endurecido
+item.solarexpansion:solarCoreRedstone.name=Núcleo Solar Reforçado
+item.solarexpansion:solarCoreResonant.name=Núcleo Solar Ressonante
+item.solarexpansion:solarCoreAdvanced.name=Núcleo Solar Avançado
+item.solarexpansion:solarCoreUltimate.name=Núcleo Solar Ultimata
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=Geração
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=Transferência
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=Capacidade
+
+info.shad0wb1ade.solarexpansion.items.components=Esse item é um componente para criação.
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=Segure
+info.shad0wb1ade.solarexpansion.shiftkey=Shift
+info.shad0wb1ade.solarexpansion.shiftkey.down=para Detalhes
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=Segure
+info.shad0wb1ade.solarexpansion.controlkey=Control
+info.shad0wb1ade.solarexpansion.controlkey.down=para Detalhes
