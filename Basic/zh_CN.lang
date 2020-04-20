@@ -1,0 +1,33 @@
+### Solar Expansion Chinese Localization File ###
+### CJYKK ###
+
+itemGroup.solarexpansion=热力系列太阳能
+
+tile.solarexpansion:solarPanelLeadstone.name=铅石太阳能电池板
+tile.solarexpansion:solarPanelHardened.name=强化太阳能电池板
+tile.solarexpansion:solarPanelRedstone.name=红石太阳能电池板
+tile.solarexpansion:solarPanelResonant.name=谐振太阳能电池板
+tile.solarexpansion:solarPanelAdvanced.name=超级太阳能电池板
+tile.solarexpansion:solarPanelUltimate.name=终极太阳能电池板
+
+item.solarexpansion:photovoltaicCell.name=光伏电池
+item.solarexpansion:solarCoreLeadstone.name=铅石太阳能核心
+item.solarexpansion:solarCoreHardened.name=硬化太阳能核心
+item.solarexpansion:solarCoreRedstone.name=红石太阳能核心
+item.solarexpansion:solarCoreResonant.name=谐振太阳能核心
+item.solarexpansion:solarCoreAdvanced.name=超级太阳能核心
+item.solarexpansion:solarCoreUltimate.name=终极太阳能核心
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=一代
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=输出
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=容量
+
+info.shad0wb1ade.solarexpansion.items.components=这只是一个手工制作的组件。
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=按住
+info.shad0wb1ade.solarexpansion.shiftkey=Shift键
+info.shad0wb1ade.solarexpansion.shiftkey.down=了解详细信息
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=按住
+info.shad0wb1ade.solarexpansion.controlkey=Control键
+info.shad0wb1ade.solarexpansion.controlkey.down=了解详细信息
